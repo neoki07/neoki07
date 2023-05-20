@@ -3,8 +3,9 @@
 <div>
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=ot07&column=8&theme=gruvbox&no-frame=true"/>
 
-![github stats](https://github-readme-stats.vercel.app/api?username=ot07&count_private=true&show_icons=true&line_height=28&theme=dracula)
-![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ot07&langs_count=10&layout=compact&show_icons=true&theme=dracula)
+![github stats](https://github-readme-stats.vercel.app/api?username=ot07&line_height=24&count_private=true&show_icons=true&theme=dracula)
+
+![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ot07&langs_count=8&layout=compact&show_icons=true&theme=dracula)
 
 <!--
 **ot07/ot07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
