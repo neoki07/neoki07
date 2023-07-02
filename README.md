@@ -7,8 +7,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ot07&column=8&theme=dracula" alt="ot07" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ot07&show_icons=true&locale=en&layout=compact&theme=dracula" alt="ot07" /></p>
+<p><img align="left" height="184px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ot07&show_icons=true&locale=en&layout=compact&langs_count=8&theme=dracula" alt="ot07" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ot07&show_icons=true&locale=en&theme=dracula" alt="ot07" /></p>
+<p><img align="center" height="184px" src="https://github-readme-stats.vercel.app/api?username=ot07&show_icons=true&locale=en&theme=dracula" alt="ot07" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ot07&theme=dracula" alt="ot07" /></p>
+<p><img align="center" height="184px" src="https://github-readme-streak-stats.herokuapp.com/?user=ot07&theme=dracula" alt="ot07" /></p>
