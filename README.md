@@ -6,7 +6,7 @@
 
 <h4 align="left">Languages and Tools:</h3>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,go,php,rust,py,astro,react,nextjs,redux,tailwind,laravel,wasm,nodejs,docker,linux,vscode,neovim" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,go,php,rust,py,astro,react,nextjs,redux,tailwind,jest,vite,laravel,wasm,nodejs,docker,vscode,idea,neovim" />
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ot07&column=8&theme=dracula" alt="ot07" /></a>
 
