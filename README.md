@@ -19,9 +19,9 @@ I'm a web developer.
 <h2 align="left">Status</h2>
 
 <p align="left">
-  <img height="144rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=ot07&layout=compact" alt="ot07" />
-  <img height="144rem" src="https://github-readme-stats.vercel.app/api?username=ot07" alt="ot07" />
-  <img height="144rem" src="https://github-readme-streak-stats.herokuapp.com/?user=ot07" alt="ot07" />
+  <img height="136rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=ot07&layout=compact" alt="ot07" />
+  <img height="136rem" src="https://github-readme-stats.vercel.app/api?username=ot07" alt="ot07" />
+  <img height="136rem" src="https://github-readme-streak-stats.herokuapp.com/?user=ot07" alt="ot07" />
 </p>
 
 <p align="left">
