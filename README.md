@@ -3,8 +3,8 @@
 I'm a web developer.
 
 - 👨‍💻 My projects are available at [https://portfolio.ot07.me](https://portfolio.ot07.me/)
-- 📝 My articles for Japanese are available at [https://zenn.dev/ot07](https://zenn.dev/ot07/)
 - 🔧 My tech blog for Japanese is available at [https://techblog.ot07.me](https://techblog.ot07.me/)
+- 📝 My articles for Japanese are available at [https://zenn.dev/ot07](https://zenn.dev/ot07/)
 
 <h2 align="left">Skills</h2>
 
