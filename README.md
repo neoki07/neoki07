@@ -9,11 +9,11 @@ I'm a web developer.
 <h2 align="left">Skills</h2>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,go,php,rust,py,astro" />
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,go,php,rust,py,astro" />
 </p>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,jest,vite,laravel,wasm,nodejs,docker,vscode,idea,neovim" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,jest,vite,laravel,wasm,nodejs,bun,docker,vscode,idea,neovim" />
 </p>
 
 <h2 align="left">Status</h2>
