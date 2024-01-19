@@ -8,13 +8,29 @@ I'm a web developer.
 
 <h2 align="left">Skills</h2>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,html,css,go,php,rust,py,astro" />
-</p>
+[![image](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
+[![image](https://skillicons.dev/icons?i=js)](https://en.wikipedia.org/wiki/JavaScript)
+[![image](https://skillicons.dev/icons?i=html)](https://en.wikipedia.org/wiki/HTML)
+[![image](https://skillicons.dev/icons?i=css)](https://en.wikipedia.org/wiki/CSS)
+[![image](https://skillicons.dev/icons?i=go)](https://go.dev/)
+[![image](https://skillicons.dev/icons?i=php)](https://www.php.net/)
+[![image](https://skillicons.dev/icons?i=rust)](https://www.rust-lang.org/)
+[![image](https://skillicons.dev/icons?i=py)](https://www.python.org/)
+[![image](https://skillicons.dev/icons?i=astro)](https://astro.build/)
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,jest,vite,laravel,wasm,nodejs,bun,docker,vscode,idea,neovim" />
-</p>
+[![image](https://skillicons.dev/icons?i=react)](https://react.dev/)
+[![image](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/)
+[![image](https://skillicons.dev/icons?i=redux)](https://redux.js.org/)
+[![image](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
+[![image](https://skillicons.dev/icons?i=jest)](https://jestjs.io/)
+[![image](https://skillicons.dev/icons?i=vite)](https://vitejs.dev/)
+[![image](https://skillicons.dev/icons?i=laravel)](https://laravel.com/)
+[![image](https://skillicons.dev/icons?i=wasm)](https://en.wikipedia.org/wiki/WebAssembly)
+[![image](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/)
+[![image](https://skillicons.dev/icons?i=bun)](https://bun.sh/)
+[![image](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
+[![image](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
+[![image](https://skillicons.dev/icons?i=neovim)](https://neovim.io/)
 
 <h2 align="left">Status</h2>
 
