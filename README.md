@@ -6,8 +6,6 @@ I'm a web developer.
 - 🔧 My tech blog for Japanese is available at [https://techblog.neoki.me](https://techblog.neoki.me/)
 - 📝 My articles for Japanese are available at [https://zenn.dev/ot07](https://zenn.dev/ot07/)
 
-<h2 align="left">Skills</h2>
-
 [![image](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
 [![image](https://skillicons.dev/icons?i=js)](https://en.wikipedia.org/wiki/JavaScript)
 [![image](https://skillicons.dev/icons?i=html)](https://en.wikipedia.org/wiki/HTML)
@@ -31,8 +29,6 @@ I'm a web developer.
 [![image](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
 [![image](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
 [![image](https://skillicons.dev/icons?i=neovim)](https://neovim.io/)
-
-<h2 align="left">Status</h2>
 
 <p align="left">
   <img height="144rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=neokidev&layout=compact" alt="neokidev stats" />
