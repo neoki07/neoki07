@@ -34,7 +34,3 @@ I'm a web developer.
   <img height="144rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=neokidev&layout=compact" alt="" />
   <img height="144rem" src="https://github-readme-streak-stats.herokuapp.com/?user=neokidev" alt="" />
 </p>
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=neokidev&amp;margin-w=5&amp;margin-h=5" alt="" style="max-width: 100%;">
-</p>
