@@ -6,5 +6,4 @@ I'm a web developer.
 
 <p align="left">
   <img height="144rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=neoki07&layout=compact" alt="" />
-  <img height="144rem" src="https://github-readme-streak-stats.herokuapp.com/?user=neoki07" alt="" />
 </p>
